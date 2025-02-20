@@ -1,0 +1,8 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to various fields, including sports.
+For example, in soccer, wearable devices can be attached to players to collect real-time data such as heart rate,
+distance covered, speed, and positioning. This data can then be analyzed to evaluate player performance,
+optimize training routines, and develop effective strategies. By leveraging these insights,
+coaches can make data-driven decisions to improve team tactics, enhance player fitness,
+and gain a competitive edge during matches.
