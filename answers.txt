@@ -22,3 +22,10 @@ Answer: Merging preserves the branch history and creates a merge commit,
 while rebasing rewrites history to create a linear sequence of commits.
 Use merging when you want to maintain a clear record of branch divergence and merging.
 Use rebasing when you want a cleaner, linear history, especially before sharing your changes with others.
+
+Q4: What are you looking forward to this semester?
+
+Answer: This semester, I'm excited to learn various programming tools for collecting and analyzing data in this
+class. My goal is to apply these new techniques to a website I created during the break, 
+which organizes soccer player statistics. I look forward to enhancing the site with more advanced and user-friendly
+features, making it even more useful and insightful for soccer fans!
